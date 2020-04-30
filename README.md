@@ -15,8 +15,3 @@ A simple web application for keeping track of your school or university schedule
 - Navigate back to index.html. Now you should see your timetable
  
 - Optionally, create a shortcut to your home screen or desktop for faster access
-
-
-
-## License
-This project is licensed under [GNU GPL v3.0](LICENSE).
